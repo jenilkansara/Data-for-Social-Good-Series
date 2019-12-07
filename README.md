@@ -1,3 +1,3 @@
 # Data-for-Social-Good-Series
 
-Project 1: Drug Related Deaths in Connecticut
+Project 1: Accidental Drug Related Deaths in Connecticut
