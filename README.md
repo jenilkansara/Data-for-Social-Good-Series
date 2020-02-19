@@ -2,6 +2,10 @@
 
 ## Project 1: Accidental Drug Related Deaths in Connecticut
 
+### Please click on the link below to see the interactive charts that will not be visible in the .ipynb file here.
+
+Notebook Link: https://jenilkansara.github.io/Accidental_Drug_Related_Deaths.html
+
 ### Introduction
 
  As per the data of 2019, the number of Intoxication Deaths has significantly increased in the first half of 2019 and is projected to exceed the total number of deaths in 2018. It is clear that the situation is exacerbating and immediate informed actions are required.
